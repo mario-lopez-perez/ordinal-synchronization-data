@@ -1,5 +1,4 @@
-This is the data analyzed in the article "Ordinal Synchronization and Typical States in High Frequency
-Digital Markets", submitted to "Entropy" by Mario López Pérez and Ricardo Mansilla. 
+This repository contains the data analyzed in the article "Ordinal Synchronization and Typical States in High Frequency Digital Markets", submitted to "Entropy" by Mario López Pérez and Ricardo Mansilla. 
 
 The folder Mean_price contains the csv files with the logarithms of mean prices per second of the corresponding asset. Empty cells correspond to seconds with no transactions.
 
